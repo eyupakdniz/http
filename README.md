@@ -130,7 +130,7 @@ Web hosting hizmetleri, genellikle farklı özellikler, bant genişliği, depola
 
 
 
-##Kaynak
+## Kaynak
 
 [HTTP article](https://cs.fyi/guide/http-in-depth)
 
