@@ -130,6 +130,12 @@ Web hosting hizmetleri, genellikle farklı özellikler, bant genişliği, depola
 
 
 
+##Kaynak
+
+[HTTP article](https://cs.fyi/guide/http-in-depth)
+
+
+
 
 
 
